@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505928295460",
+    "project_id": "marketplace-d1e14",
+    "storage_bucket": "marketplace-d1e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505928295460:android:eeb636a1e6eb7ef5e9a4b1",
+        "android_client_info": {
+          "package_name": "door.one.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505928295460-d1l4qdsbscsp997ie7jsgc5on566ecpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "door.one.marketplace",
+            "certificate_hash": "fed440aa74ede181a75a08a80cc0e069f94693fc"
+          }
+        },
+        {
+          "client_id": "505928295460-v2ntdomj6lsc04a43rlvacognungjccb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpI1SWTWQHRuJ8EfGmPqd5SYq0TBx7d0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505928295460-v2ntdomj6lsc04a43rlvacognungjccb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

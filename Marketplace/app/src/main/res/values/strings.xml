@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Marketplace</string>
+    <string name="title_activity_navi_home">NaviHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Корзина</string>
+    <string name="menu_gallery">Мои заказы</string>
+    <string name="menu_slideshow">Категории</string>
+    <string name="title_activity_navi_twose">NaviTwoseActivity</string>
+    <string name="menu_exit">выйти</string>
+    <string name="menu_setting">Настройки</string>
+
+</resources>
